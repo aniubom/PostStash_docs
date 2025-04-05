@@ -10,7 +10,10 @@
 
 - Given the user has opened the PostStash mobile app  
 - When the login screen is rendered  
-- Then the screen must show a button with:
+- Then I shhould be able to see the following:
+  - a responsive screen with a gradeint background
+  - Text Logo titled "PostStash"
+  -
   - The Google icon (`<FaGoogle />`)
   - The label: "Google"
   - A styled border button matching app design
